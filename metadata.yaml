@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43436'
     url: http://www.gutenberg.org/2009/agents/43436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45754#ABC---Butter-MakingA-Hand-Book-for-the-Beginner
 gutenberg_issued: '2014-05-25'
 gutenberg_type: Text
 identifiers:
